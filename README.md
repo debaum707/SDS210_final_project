@@ -15,3 +15,6 @@ Structure:
 - data/processed: cleaned data
 
 - Source: ...
+
+- please for the city data download: "ADM_STATISTISCHE_QUARTIERE_MAP"
+and name it stzh_boundaries.csv > the other layer might be more precise but is according to the city is not optimal vor Visualization. 
